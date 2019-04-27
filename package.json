@@ -1,0 +1,22 @@
+{
+  "name": "awesome-sb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "ts-node app.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.7.4",
+    "dotenv": "^7.0.0",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "tslint": "^5.16.0",
+    "tslint-config-airbnb": "^5.11.1"
+  }
+}
